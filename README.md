@@ -22,15 +22,19 @@ and edit `stats.py`
 
 # UI and Messages
 After run the file `main.pyw` will show this UI.
+
 ![alt text](doc/img/1.png "Warzone Stats Tracker")
 
 Select your platform and enter the gametag
+
 ![alt text](doc/img/2.png "Warzone Stats Tracker")
 
 if you select Battle.net please enter the gametag with format _#XXXX_
+
 ![alt text](doc/img/3.png "Warzone Stats Tracker")
 
 When the profile not found show this message
+
 ![alt text](doc/img/4.png "Warzone Stats Tracker")
 
 # Resources
